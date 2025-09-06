@@ -65,7 +65,7 @@ body {
     font-weight: 500;
 }
 
-.tautan-item.hover {
+.tautan-item:hover {
     background: rgba(255, 255, 255, 0.25);
     transform: scale(1.03);
 }
